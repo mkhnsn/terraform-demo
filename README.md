@@ -6,6 +6,7 @@ Mike Hansen, Nov 2024 - @mkhnsn
 
 ### First time only
 `aws configure`
+
 `terraform init`
 
 ### Normal use
